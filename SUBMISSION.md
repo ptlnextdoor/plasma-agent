@@ -76,3 +76,32 @@ phase costs nothing (WHY NOW).
 - 49% faster-healing figure is the published field literature, not my device.
 - Cost numbers are a model of a warm-instance baseline, labeled as such in the UI.
 - Loop runs on Cloudflare DO hibernation, not FC Sandbox — documented mapping.
+
+---
+
+## VIDEO UPLOAD — READY TO PASTE (YouTube unlisted / Loom)
+Title:
+Plasma Treatment Agent — a hibernating execute-wait-execute cloud loop (Beta × Alibaba × AMD)
+
+Description:
+A 6-DOF DBD cold-plasma wound-treatment workflow rebuilt as a hibernating cloud agent.
+Between raster passes the tissue nears a 40 °C safety cutoff, so the agent runs a pass,
+hibernates through the cool-down dwell (instance evicted, no polling), and an alarm wakes
+it (~1 ms) to run the next pass. Full loop: execute → hibernate → wake → continue, state
+persisted, structured trace log. Maps 1:1 onto Alibaba FC Sandbox deep hibernation;
+proven here on Cloudflare Durable Object hibernation + alarms.
+Live (no login): https://plasma-agent.aayu22809-6c9.workers.dev
+Code: https://github.com/ptlnextdoor/plasma-agent
+Built by Aayushya Patel. Hardware: 2 yrs under Dr. Sohail Zaidi (SJSU), IEEE ISEC 2026.
+
+## DRIVE WARNING
+The folder "ImageProcessingPlasmaRobotArm" is currently PRIVATE (redirects to Google
+login). If you use any Drive video, set it to "Anyone with the link — Viewer" first, or
+it fails the "opens without login" hard requirement and risks auto-DQ.
+
+## FINAL CHECKLIST (do in this order, before 11:59 PM PT)
+[ ] 1. Record 3-min demo (open live URL, click Start, narrate the script above)
+[ ] 2. Upload YouTube-unlisted or Loom; copy the link
+[ ] 3. Sheet: paste the SHEET ROW + video link (row must be saved by 11:59 PM PT)
+[ ] 4. Master Slides: paste the 3 slides (Slide 3 = embed the video)
+[ ] 5. Confirm live URL still opens in an incognito window (no login)
