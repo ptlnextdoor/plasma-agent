@@ -1,7 +1,7 @@
 # Plasma Treatment Agent — Hackathon Submission Kit
 
 **LIVE URL (no login):** https://plasma-agent.aayu22809-6c9.workers.dev
-**Repo:** local at desktop/melani/plasma-agent (push to github.com/ptlnextdoor if time)
+**Repo:** https://github.com/ptlnextdoor/plasma-agent
 **Team:** Aayushya Patel — aayu22809@gmail.com — 669.732.0048
 
 ---
