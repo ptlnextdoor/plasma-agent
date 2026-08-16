@@ -1,5 +1,17 @@
 # Plasma Treatment Agent — Hackathon Submission Kit
 
+## ⚠️ READ FIRST — WHAT THE VIDEO ACTUALLY IS
+The generated file `plasma-agent-demo.mp4` shows the SOFTWARE AGENT (the live
+web app) running its execute→hibernate→wake loop. It is NOT footage of the
+physical 6-DOF plasma arm. No video of the real hardware was found in your
+email, and you said you can't record one right now.
+- This fits the hackathon rubric (it judges the FC-Sandbox-style agent, not
+  hardware), so it is the correct thing to submit HERE.
+- It is NOT a substitute for real arm footage in any hardware-focused context
+  (e.g. a future Boom/Blake demo). If you have arm video on your phone/Drive,
+  that is stronger for those; for THIS hackathon the agent demo is right.
+
+
 **LIVE URL (no login):** https://plasma-agent.aayu22809-6c9.workers.dev
 **Repo:** https://github.com/ptlnextdoor/plasma-agent
 **Team:** Aayushya Patel — aayu22809@gmail.com — 669.732.0048
