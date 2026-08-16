@@ -23,7 +23,7 @@ email, and you said you can't record one right now.
 - Contact: aayu22809@gmail.com · 669.732.0048
 - Product name: Plasma Treatment Agent
 - Live URL: https://plasma-agent.aayu22809-6c9.workers.dev
-- Demo video URL: <PASTE YOUR 3-MIN VIDEO LINK — YouTube unlisted / Loom / Drive>
+- Demo video URL: https://plasma-agent.aayu22809-6c9.workers.dev/demo.mp4 (public, no login, 80s, ElevenLabs narration)
 - Slides/Repo: <Master Slides link once you add the 3 slides>
 
 ## ONE-SENTENCE DESCRIPTION (WHO + WHAT + WHY NOW)

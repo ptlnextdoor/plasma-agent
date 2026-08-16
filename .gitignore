@@ -2,3 +2,9 @@ video-raw
 node_modules
 .wrangler
 *.mp4
+
+# large binaries kept out of git
+*.aiff
+*.wav
+vo/
+vo11/

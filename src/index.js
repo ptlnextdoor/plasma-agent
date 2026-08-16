@@ -168,7 +168,7 @@ export default {
       });
     }
 
-    return new Response("not found", { status: 404 });
+    return env.ASSETS.fetch(req);
   },
 };
 
@@ -202,6 +202,7 @@ const HTML = String.raw`<!doctype html>
 <header>
   <h1>Plasma Treatment Agent <span style="color:var(--dim);font-weight:400">· execute → hibernate → wake → continue</span></h1>
   <div class="sub">A 6-DOF DBD cold-plasma wound-treatment loop as a hibernating cloud agent. Between raster passes the tissue nears the 40&nbsp;°C safety cutoff, so the agent <b>hibernates through the cool-down dwell</b> (instance evicted, no polling) and an alarm wakes it to run the next pass. Runs on Cloudflare Durable Object hibernation + alarms; the same loop maps 1:1 onto Alibaba FC Sandbox deep hibernation.</div>
+  <div class="sub" style="margin-top:8px">▶ <a href="/demo.mp4" style="color:var(--acc);font-weight:700">Watch the 80-second narrated demo</a></div>
 </header>
 <div class="wrap">
   <div class="card">
